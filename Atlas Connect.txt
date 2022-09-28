@@ -1,2 +1,0 @@
-mongodb+srv://darkbree:<Zerocoll12>@igorcluster.gs9rpqh.mongodb.net/?retryWrites=true&w=majority
-mongodb+srv://darkbree:<Zerocoll12>@igorcluster.gs9rpqh.mongodb.net/test
